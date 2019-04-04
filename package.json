@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-expressjs",
+  "version": "1.0.0",
+  "description": "\"# nodejs-expressjs-app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yafimb/nodejs-expressjs-app.git"
+  },
+  "author": "yafimb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yafimb/nodejs-expressjs-app/issues"
+  },
+  "homepage": "https://github.com/yafimb/nodejs-expressjs-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
